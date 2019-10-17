@@ -1,0 +1,3 @@
+[submodule "DrQA"]
+	path = DrQA
+	url = https://github.com/facebookresearch/DrQA.git
