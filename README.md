@@ -1,4 +1,4 @@
-# GoldEn Retriever
+# <img src="fig/golden-retriever-icon.png" height=100 alt="GoldEn Retriever Icon"> GoldEn Retriever
 
 This repository contains the authors' implementation of the EMNLP-IJCNLP 2019 paper "[Answering Complex Open-domain Questions Through Iterative Query Generation](https://arxiv.org/pdf/1910.07000.pdf)".
 
